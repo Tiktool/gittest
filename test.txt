@@ -1,5 +1,1 @@
 This is the 1st text
-<<<<<<< HEAD
-=======
-This is the 2nd test
->>>>>>> dev
